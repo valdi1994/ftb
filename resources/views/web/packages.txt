@@ -1,0 +1,233 @@
+<div class="nopadding"
+                                         style="display:flex; justify-content:center; align-items:center; width: 100%">
+                                        <h2>Please select the package that you like</h2>
+                                    </div>
+                                    <div class="row clearfix">
+
+                                        <article class="portfolio-item pf-media pf-icons clearfix">
+                                            <div class="portfolio-desc">
+                                                <div style="display:flex; justify-content: space-between">
+                                                    <h3><a href="#">Plastic</a>
+
+                                                    </h3>
+                                                    <input id="plastic-checkbox" type="checkbox" name="package[]"
+                                                           value="plastic" class="checkbox-style"><label
+                                                            class="checkbox-style-3-label"
+                                                            for="plastic-checkbox"></label>
+                                                </div>
+                                                <h3><a href="#">$100 = 1000 FTB</a></h3>
+                                            </DIV>
+                                            <div class="portfolio-image">
+                                                <a href="#">
+                                                    <figure style="background-image: url('{{asset('currency/plastic.jpg')}}')"></figure>
+                                                </a>
+                                                <div class="portfolio-overlay">
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio-desc">
+                                                <h3>Watch one market</h3>
+                                                <div class="quantity clearfix">
+                                                    <!-- <input type="button" value="-" class="minus">
+                                                    <input type="text" step="1" min="1" name="quantity" value="1" title="Qty" class="qty" size="4">
+                                                    <input type="button" value="+" class="plus"> -->
+                                                </div>
+                                            </div>
+                                        </article>
+
+                                        <article class="portfolio-item pf-media pf-icons clearfix">
+                                            <div class="portfolio-desc">
+                                                <div style="display:flex; justify-content: space-between">
+                                                    <h3>
+                                                        <a href="#">Wood</a>
+                                                    </h3>
+                                                    <input id="wood-checkbox" type="checkbox" name="package[]"
+                                                           value="wood" class="checkbox-style"><label
+                                                            class="checkbox-style-3-label" for="wood-checkbox"></label>
+                                                </div>
+                                                <h3><a href="#">$250 = 2500 FTB</a></h3>
+                                            </div>
+                                            <div class="portfolio-image">
+                                                <a href="#">
+                                                    <figure style="background-image: url('{{asset('currency/wood.jpg')}}')"></figure>
+                                                </a>
+                                                <div class="portfolio-overlay">
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio-desc">
+                                                <h3>Watch 2 markets</h3>
+                                                <div class="quantity clearfix">
+                                                    <!-- <input type="button" value="-" class="minus">
+                                                    <input type="text" step="1" min="1" name="quantity" value="1" title="Qty" class="qty" size="4">
+                                                    <input type="button" value="+" class="plus"> -->
+                                                </div>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-media pf-icons clearfix">
+                                            <div class="portfolio-desc">
+                                                <div style="display:flex; justify-content: space-between">
+                                                    <h3><a href="#">Iron</a>
+                                                    </h3>
+                                                    <input id="iron-checkbox" type="checkbox" name="package[]"
+                                                           value="iron" class="checkbox-style"><label
+                                                            class="checkbox-style-3-label" for="iron-checkbox"></label>
+                                                </div>
+                                                <h3><a href="#">$500 = 5000 FTB</a></h3>
+                                            </div>
+                                            <div class="portfolio-image">
+                                                <a href="#">
+                                                    <figure style="background-image: url('{{asset('currency/iron.jpg')}}')"></figure>
+                                                </a>
+                                                <div class="portfolio-overlay">
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio-desc">
+                                                <h3>Watch 3 markets</h3>
+                                                <div class="quantity clearfix">
+                                                    <!-- <input type="button" value="-" class="minus">
+                                                    <input type="text" step="1" min="1" name="quantity" value="1" title="Qty" class="qty"
+                                                           size="4">
+                                                    <input type="button" value="+" class="plus">
+                                                     -->
+                                                </div>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-media pf-icons clearfix">
+                                            <div class="portfolio-desc">
+
+                                                <div style="display:flex; justify-content: space-between">
+                                                    <h3><a href="#">Bronze</a>
+                                                    </h3>
+                                                    <input id="bronze-checkbox" type="checkbox" name="package[]"
+                                                           value="bronze" class="checkbox-style"><label
+                                                            class="checkbox-style-3-label"
+                                                            for="bronze-checkbox"></label>
+                                                </div>
+                                                <h3><a href="#">$750 = 7500 FTB</a></h3>
+                                            </div>
+                                            <div class="portfolio-image">
+                                                <a href="#">
+                                                    <figure style="background-image: url('{{asset('currency/bronze.jpg')}}')"></figure>
+                                                </a>
+                                                <div class="portfolio-overlay">
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio-desc">
+                                                <h3>Watch up to 4 markets</h3>
+                                                <div class="quantity clearfix">
+                                                    <!-- <input type="button" value="-" class="minus">
+                                                    <input type="text" step="1" min="1" name="quantity" value="1" title="Qty" class="qty"
+                                                           size="4">
+                                                    <input type="button" value="+" class="plus"> -->
+
+                                                </div>
+
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-media pf-icons clearfix">
+                                            <div class="portfolio-desc">
+                                                <div style="display:flex; justify-content: space-between">
+                                                    <h3>
+                                                        <a href="#">Silver</a>
+                                                    </h3>
+                                                    <input id="silver-checkbox" type="checkbox" name="package[]"
+                                                           value="silver" class="checkbox-style"><label
+                                                            class="checkbox-style-3-label"
+                                                            for="silver-checkbox"></label>
+                                                </div>
+                                                <h3><a href="#">$1000 = 10000 FTB</a></h3>
+                                            </div>
+                                            <div class="portfolio-image">
+                                                <a href="#">
+                                                    <figure style="background-image: url('{{asset('currency/silver.jpg')}}')"></figure>
+                                                </a>
+                                                <div class="portfolio-overlay">
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio-desc">
+                                                <h3>Watch all markets</h3>
+
+                                                <div class="quantity clearfix">
+                                                    <!-- <input type="button" value="-" class="minus">
+                                                    <input type="text" step="1" min="1" name="quantity" value="1" title="Qty" class="qty"
+                                                           size="4">
+                                                    <input type="button" value="+" class="plus"> -->
+
+                                                </div>
+
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-media pf-icons clearfix">
+                                            <div class="portfolio-desc">
+                                                <div style="display:flex; justify-content: space-between">
+                                                    <h3><a href="#">Gold</a>
+                                                    </h3>
+                                                    <input id="gold-checkbox" type="checkbox" name="package[]"
+                                                           value="gold" class="checkbox-style"><label
+                                                            class="checkbox-style-3-label" for="gold-checkbox"></label>
+                                                </div>
+                                                <h3><a href="#">$1500 = 15000 FTB</a></h3>
+                                            </div>
+                                            <div class="portfolio-image">
+                                                <a href="#">
+                                                    <figure style="background-image: url('{{asset('currency/gold.jpg')}}')"></figure>
+                                                </a>
+                                                <div class="portfolio-overlay">
+                                                </div>
+                                            </div>
+                                            <div class="portfolio-desc">
+                                                <h3>Watch all markets and vote which markets to add</h3>
+                                                <div class="quantity clearfix">
+                                                    <!-- <input type="button" value="-" class="minus">
+                                                    <input type="text" step="1" min="1" name="quantity" value="1" title="Qty" class="qty"
+                                                           size="4">
+                                                    <input type="button" value="+" class="plus"> -->
+
+                                                </div>
+
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-media pf-icons clearfix">
+                                            <div class="portfolio-desc">
+
+                                                <div style="display:flex; justify-content: space-between">
+                                                    <h3><a href="#">Platinum</a>
+
+                                                    </h3>
+                                                    <input id="platinum-checkbox" type="checkbox" name="package[]"
+                                                           value="platinum" class="checkbox-style"><label
+                                                            class="checkbox-style-3-label"
+                                                            for="platinum-checkbox"></label>
+                                                </div>
+                                                <h3><a href="#">$2000 = 20000 FTB</a></h3>
+                                            </div>
+                                            <div class="portfolio-image">
+                                                <a href="#">
+                                                    <figure style="background-image: url('{{asset('currency/platinum.jpg')}}')"></figure>
+                                                </a>
+                                                <div class="portfolio-overlay">
+                                                </div>
+                                            </div>
+                                            <div class="portfolio-desc">
+                                                <h3>Watch all markets, vote and get a private
+                                                    custom trading robot to trade private market</h3>
+                                                <div class="quantity clearfix">
+                                                    <!--  <input type="button" value="-" class="minus">
+                                                     <input type="text" step="1" min="1" name="quantity" value="1" title="Qty" class="qty"
+                                                            size="4">
+                                                     <input type="button" value="+" class="plus"> -->
+                                                </div>
+                                            </div>
+                                        </article>
+                                    </div>
+
+                                    <div class="col_full nobottommargin"
+                                         style="display:flex; justify-content:center; align-items:center; flex-direction:column">
+                                        <a href="" id="register-form-submit" name="register-form-submit" value="register"
+                                                class="button button-desc button-3d button-rounded center">Purchase now
+                                        </a>
+                                    </div>
